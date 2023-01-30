@@ -81,9 +81,9 @@ position: absolute; width: 320px; height: 35px; left: 23px; top: 521px; font-fam
 ```
 
 ## OUTPUT:
-![output](
-![output](
-![output](
+![output](es.png)
+![output](eee.png)
+![output](eeee.png)
 
 ## Result:
 The program to design, develop and deploy a web application for event registration is completed successfully.
