@@ -80,11 +80,10 @@ position: absolute; width: 320px; height: 38px; left: 22px; top: 471px; font-fam
 position: absolute; width: 320px; height: 35px; left: 23px; top: 521px; font-family: 'Inter'; font-style: normal; font-weight: 400; font-size: 22px; line-height: 27px; text-align: center; color: #FFFFFF;
 ```
 
-
 ## OUTPUT:
-![output](es.png)
-![output](eee.png)
-![output](eeee.png)
+![output](
+![output](
+![output](
 
 ## Result:
 The program to design, develop and deploy a web application for event registration is completed successfully.
